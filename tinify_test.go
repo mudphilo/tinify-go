@@ -5,7 +5,7 @@ import (
 
 	"io/ioutil"
 
-	"github.com/gwpp/tinify-go/tinify"
+	"github.com/mudphilo/tinify-go/tinify"
 )
 
 const Key = "rcPZm3Zrg_1DbjYtV6AXM_-53Jg9wuWB"

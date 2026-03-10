@@ -15,7 +15,7 @@ Golang client for the Tinify API, used for [TinyPNG](https://tinypng.com) and [T
 Install the API client with `go get`.
 
 ```shell
-go get -u github.com/gwpp/tinify-go
+go get -u github.com/mudphilo/tinify-go
 ```
 
 ## Usage
@@ -87,7 +87,7 @@ go get -u github.com/gwpp/tinify-go
 ## Running tests
 
 ```shell
-cd $GOPATH/src/github.com/gwpp/tinify-go
+cd $GOPATH/src/github.com/mudphilo/tinify-go
 go test
 ```
 
